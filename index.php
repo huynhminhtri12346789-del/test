@@ -12,6 +12,8 @@
 
     <div class="header">
         <h1>tooi</h1>
+        <p>mai lên làm như vậy nè nha ( thêm file code vô đây)</p>
+       <p>xong git bash</p>
         <h4>Chuyên bán hoa tươi</h4>
         <h1>🌸 Cửa Hàng Hoa Tươi</h1>
     </div>
