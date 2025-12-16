@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #fff5f7;
+}
+
+.header {
+    background: #e91e63;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Layout trái - phải */
+.container {
+    display: flex;
+}
+
+/* Cột trái */
+.left {
+    width: 25%;
+    padding: 20px;
+    background: #ffe4ec;
+}
+
+.left ul {
+    list-style: none;
+    padding: 0;
+}
+
+.left li {
+    padding: 8px 0;
+}
+
+/* Cột phải (sản phẩm) */
+.products {
+    width: 75%;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.product {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.product img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+button {
+    background: #e91e63;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+}
