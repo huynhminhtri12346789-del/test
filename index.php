@@ -11,17 +11,10 @@
 <body>
 
     <div class="header">
-        <h1>tooi</h1>
-        <p>mai lên làm như vậy nè 
-            nha ( thêm file code vô đây)</p>
-       <p>xong git bash</p>
-       <p>git add .</p>
-       git commit -m "thêm code cho trang index"
-       <p>chờ 1 xíu trang nó log lên code ok</p>
-       <p>git push </p>
+        <p>Huynh Minh Tri_Thu6 ca 2</p>
         <h4>Chuyên bán hoa tươi</h4>
         <h1>🌸 Cửa Hàng Hoa Tươi</h1>
-        <p>tui name la ...</p>
+        <p>tui name la </p>
     </div>
 
     <div class="container">
