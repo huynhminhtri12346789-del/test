@@ -11,10 +11,9 @@
 <body>
 
     <div class="header">
-        <p>Huynh Minh Tri_Thu6 ca 2</p>
+        <p>Huynh Minh Tri-Thu 4 ca 2</p>
         <h4>Chuyên bán hoa tươi</h4>
         <h1>🌸 Cửa Hàng Hoa Tươi</h1>
-        <p>tui name la </p>
     </div>
 
     <div class="container">
